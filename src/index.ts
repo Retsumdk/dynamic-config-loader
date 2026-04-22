@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 /**
  * dynamic-config-loader - Hot-reload configuration from environment or vault
- * Built with Zo Computer by The BookMaster
+ * Built by Retsumdk
  */
 
 import { Command } from "commander";
